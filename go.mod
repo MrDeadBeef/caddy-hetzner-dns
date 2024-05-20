@@ -1,6 +1,6 @@
 module github.com/caddy-dns/hetzner
 
-go 1.14
+go 1.18
 
 require (
 	github.com/caddyserver/caddy/ v2.7.6
